@@ -19,7 +19,7 @@
 <br />
 ### Connect with me:
 
-<img align="left" alt="pranjalisingh- | LinkedIn" width="26px" src="https://img.icons8.com/ios-filled/2x/linkedin.png" />
+<img align="left" alt="pranjalisingh- | LinkedIn" width="26px" color="white" src="https://img.icons8.com/ios-filled/2x/linkedin.png" />
 <img align="left" alt="prawnjelly | Twitter" width="26px" src="https://img.icons8.com/ios-filled/2x/twitter.png" />
 <img align="left" alt="prawnjelly_ | Instagram" width="26px" src="https://img.icons8.com/windows/2x/instagram-new.png" />
 <img align="left" alt="pranjalisingh2020@gmail.com | Email" width="26px" src="https://img.icons8.com/ios-glyphs/2x/new-post.png" />
