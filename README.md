@@ -4,7 +4,7 @@
 **pinpan123/pinpan123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning CPP and Flutter
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Machine Learning projects and research papers
 - 🤔 I’m looking for help with DSA....brrrr
 - 📫 How to reach me: pranjalisingh2020@gmail.com
