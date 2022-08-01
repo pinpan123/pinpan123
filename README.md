@@ -40,7 +40,7 @@
 <br />
 <br />
 <img  align="left" width="500" src="https://github-readme-stats.vercel.app/api?username=pinpan123&theme=radical&show_icons=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pinpan123)](https://github.com/pinpan123/github-readme-stats)
+<img  align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinpan123" />
 <br /><br />
 <img src="https://y.yarn.co/47281f52-f5c9-4135-9892-15e5cee5bceb_text.gif" alt="bye" align="left" width="300" />
 
